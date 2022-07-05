@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Diplomata+SC&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Diplomata+SC&family=Roboto:wght@100&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: grey;
+}
+.container{
+    background-color:grey;
+    width:100vw;
+    height:200vh;
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    
+}
+.div-1{
+    background-color: aquamarine;
+    width:90vw;
+    height:50vh;
+    border:5px solid white;
+    text-align: center;
+    font-size: 1.5cm;
+    font-style: initial;
+    font-family:"Diplomata sc";
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+
+}
+.div-1 p{
+    position: absolute;
+}
+.div-2 h1 {
+    font-family:"caveat brush" ;
+}
+.div-2{
+    background-color: beige ;
+    width:90vw ;
+    height:50vh ;
+    border: 5px solid white;
+    text-align: center;
+    font-size: 0.5cm;
+    font-family: "Diplomata sc";
+    display: flex;
+    font-style: initial;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+
+}
+.div-3 h2 {
+    font-family:"caveat brush";
+    font-size: 1 cm;
+}
+
+.div-3{
+   background-color:cyan;
+    width:90vw;
+    height: 50vh ;
+    border: 5px solid white;
+    text-align: center;
+    font-size: 0.5cm;
+    font-family: "Diplomata sc";
+    font-style: initial;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+
+}
+div-4 h3{
+    font-family: "caveat brush";
+}
+.div-4{
+    background-color: hotpink;
+    width:90vw ;
+    height:50vh ;
+    border: 5px solid white;
+    text-align: center;
+    font-size: 0.5cm;
+    font-family: "Diplomata sc";
+    font-style: initial;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+
+}
+.img1{
+    width :90vw;
+    height:50vh;
+}
+.img2{
+    width :25vw;
+    height: 35vh;
+    border: 3px solid black;
+    padding: 6px;
+}
+.img3{
+    width :25vw;
+    height: 35vh;
+    border: 3px solid black;
+    padding: 6px;
+}
+.img4{
+    width :25vw;
+    height: 35vh;
+    border: 3px solid black;
+    padding: 6px;
+}
+
+
